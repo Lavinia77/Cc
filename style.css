@@ -1,0 +1,15 @@
+body {background-color: #ffd5cd;
+}
+.h1{text-decoration: #d54062;
+}
+.h3 {color: #d54062}
+.hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+.second paragraph{
+border-color: pink;
+}
